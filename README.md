@@ -14,4 +14,6 @@ Screens Designed:
 
 User Flow:
 Login → Home → Menu → Cart → Checkout → Track Order
-link:  https://softgrid99.github.io/Mobile-App-Wireframing/
+
+Project link:
+https://softgrid99.github.io/Mobile-App-Wireframing/
